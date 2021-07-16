@@ -1,6 +1,6 @@
-# Table of contents
+# Artificial Intelligence
 
-## 1. [Classical Machine Learning](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/ArtificialIntelligence/ClassicML)
+## 1.[Classical Machine Learning](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/ArtificialIntelligence/ClassicML)
 
   - Naive Bayes 
   - Regression 

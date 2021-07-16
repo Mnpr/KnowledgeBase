@@ -2,21 +2,23 @@
 
 *Aims of machine learning*
 
-- Describe different learning paradigm, algorithm, theoretical results, applications
+- Describe different learning paradigm, algorithm, theoritical results, applications
   
-  - Understand learning by  building learning systems("synthetic "approach)
+  -    Understand learning by  building learning systems("synthetic "approach)
 
 - Realize improvements in technical systems based on data interpretation or on interaction with environment using learning algorithms( artificial Intelligence)
+  
+  - ...
 
 ## Dimensions of Machine Learning;
 
 - **Learning Modes**
   
-  - Supervised Learning
+  - Supervised
   
-  - Unsupervised Learning
+  - Unsupervised
   
-  - Reinforcement Learning
+  - Reinforcement
 
 - **Availability of training example**s : offline / online / active learning
 
@@ -143,15 +145,15 @@ Credit risk management :
 
 **Formalization**
 
-- Machine that learns to perform task from experience.
+- $y = f(X;W)$
 
-$y = f(X;W)$
+- $y$ : Output variable
 
-$y$ : Output variable
-
-$X$ : Input variable
+- $X$ : Input variable
 
 $W$ : model parameters
+
+- Machine that learns to perform task from experience.
 
 - **Learn :** Adjust the parameter W
 
@@ -167,7 +169,7 @@ or
 
 $D=\{x^{(1)}, ... , x^{(p)}\}$ : **Unsupervised Learning**
 
-# Learning Modes
+# Learning Modes( HOW ? )
 
 ## Supervised Learning
 
@@ -241,9 +243,9 @@ Given : input data points $D=\{x^{(1)}, ... , x^{(p)}\}$
 
 - The label may be corrected while learning.
 
-# Algorithms
+# Learning Tasks ( What ? )
 
-- Classification
+- ## Classification
   
   - **K-nearest neinghbor**
   
@@ -255,11 +257,11 @@ Given : input data points $D=\{x^{(1)}, ... , x^{(p)}\}$
   
   - Bayesian Classifier etc.
 
-- Regression
+- ## Regression
   
-  - Linear Regression
+  - ### Linear Regression
   
-  - Logistic Regression
+  - ### Logistic Regression
   
   - Non-Linear Regression
   
@@ -292,5 +294,3 @@ Given : input data points $D=\{x^{(1)}, ... , x^{(p)}\}$
   - Implicit Representation
     
     - KNN
-
-- Maps
