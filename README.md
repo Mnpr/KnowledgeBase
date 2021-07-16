@@ -15,8 +15,9 @@
 
 - [Artificial Intelligence](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/ArtificialIntelligence)
   - Classical/ Statistical Machine Learning
-  - Computer Vision
-  - Natural Language Processing/ Understanding
+  - Deep learning  
+    - Computer Vision
+    - NLP/ NLU
   - Data Science and Analytics 
   - Libraries and Tools
 
@@ -35,6 +36,7 @@
 
 - [Dev-Ops | ML-Ops ( Cloud )](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/DevOps)
   - Version Control
+  - Testing
   - CI /CD
   - Docker | K8s
 
