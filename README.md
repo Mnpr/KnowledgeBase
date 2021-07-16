@@ -2,129 +2,86 @@
 
 ![](./kb.jpeg)
 
-## Computer Science
+## :computer: [Computer Science](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience)
 
-- Artificial Intelligence
-  
+- [CS Fundamentals](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/CSFundamentals)
+  - Data Structures, Algorithms, and Theory of Computation
+  - Graphics, Hardware, Networks, and Security
+  - Database Management Systems
+  - Software Engineering
+  - Electronics and Communication
+  - Web Application Development
+
+
+- [Artificial Intelligence](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/ArtificialIntelligence)
   - Classical/ Statistical Machine Learning
-  
   - Computer Vision
-  
   - Natural Language Processing/ Understanding
-
   - Data Science and Analytics 
-  
   - Libraries and Tools
 
-- Dev-Ops | ML-Ops ( Cloud )
 
-- Data Structures, Algorithms, and Theory of Computation
 
-- Graphics, Hardware, Networks, and Security
+- [Programming](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/Programming)
+  - Python | R
+  - HTML5 , CSS3, and JS | TypeScript , Angular
+  - Go, C / C++
+  - Elm/ Haskell { Functional }
+  - BASH ( Shell Scripting )
 
-- Database Management Systems
+- [Databases [ SQL/ NOSQL ]](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/Database)
+  - PostgreSQL
+  - MongoDB
 
-- Software Engineering
+- [Dev-Ops | ML-Ops ( Cloud )](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/DevOps)
+  - Version Control
+  - CI /CD
+  - Docker | K8s
 
-- Electronics and Communication
+- [Libraries and Tools](https://github.com/Mnpr/KnowledgeBase/tree/master/ComputerScience/ToolsnLibs)
 
-- Web Engineering
 
-## Programming
+## :microscope: [Natural Science](https://github.com/Mnpr/KnowledgeBase/tree/master/Science)
 
-- Python | R
+- Physics
+  - Classical Mechanics 
+  - Optics and Acoustics
+  - Thermodynamics
+  - Electromagnetism
+  - Quantum Mechanics
+  - Relativity
+- Chemistry
+  - Physical Chemistry
+  - Organic & Inorganic 
+- Biology
+  - Neuro Science
+  - Botany | Zoology 
 
-- HTML5 , CSS3, and TypeScript [ Angular ]
-
-- C / C++
-
-- Elm/ Haskell
-
-- Databases [ SQL/ NOSQL ]
-
-- Libraries and Tools
-
-- Bash
-
-## Tools
-
-- LaTeX
-
-- Markdown
-
-- Docker | K8s
-
-- Linux [ Debian-based ]
-
-- Everyday Softwares
-
-## Physics
-
-- Classical Mechanics 
-
-- Optics and Acoustics
-
-- Quantum Mechanics
-
-- Thermodynamics
-
-- Electromagnetism
-
-- Relativity
-
-## Chemistry
-
-- Physical Chemistry
-
-- Organic & Inorganic
-
-## Biology
-
-- Neuro Science
-
-- Botany | Zoology
-
-## Mathematics
-
-- Discrete Mathematics
-
-- Number and Graph Theory
-
-- Probability and Statistics
-
+## :symbols: [Mathematics](https://github.com/Mnpr/KnowledgeBase/tree/master/Mathematics)
 - Linear Algebra
-
+- Discrete Mathematics
+- Number and Graph Theory
+- Probability and Statistics
 - Calculus
+- Optimization
 
-## Management and Economics
+## :scroll: [Social Science](https://github.com/Mnpr/KnowledgeBase/tree/master/SocialScience)
 
 - Economics and Finance
-
-- IT Project Management
-
-- Business Administration
-
-## Humanities
-
-- Music
-  
+- Management Science
+  - Business Administration
+  - Project management
+- Arts / Music
   - Theory and Composition
-
   - Electronic Music Production 
-
 - Philosophy
-  
   - Stoicism
-  
   - Taoism
-  
   - Buddhism
-
 - Languages
-  
+  - English 
+  - नेपाली  
   - Deutsch
-  
   - 中文
   
-  - 日本語
 
